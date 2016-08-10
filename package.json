@@ -1,0 +1,18 @@
+{
+  "name": "stclient",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Wuha <contact@wuha.io>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuha-io/suffixTree-jsClient.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wuha-io/suffixTree-jsClient/issues"
+  },
+  "homepage": "https://github.com/wuha-io/suffixTree-jsClient#readme",
+  "dependencies": {
+    "ramda": "^0.22.1"
+  }
+}
