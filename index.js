@@ -26,6 +26,7 @@ module.exports = (clientOpts = { port: 3010 }) => {
       this.write(`${Number(minLength)}\n`)
       this.write(`${Number(minSupport)}\n`)
     })
+    return stream
   }
 
   return { request }
